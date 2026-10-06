@@ -46,4 +46,11 @@ Deleted nodes are unlinked (next = null) so nothing is left dangling.
 Main.java, Task.java, TaskLinkedList.java, UndoStack.java, Action.java
 
 ## Screenshots
-(add 2-3 screenshots of the running program here)
+<img width="852" height="661" alt="image" src="https://github.com/user-attachments/assets/a0a8f90b-5083-4d90-81c6-e7d8cdcaa39b" />
+<img width="967" height="682" alt="image" src="https://github.com/user-attachments/assets/ace34e27-83d9-4997-b031-82b56a7f73c1" />
+<img width="744" height="650" alt="image" src="https://github.com/user-attachments/assets/07708100-2c1e-492d-b724-3089f0311bdd" />
+<img width="600" height="644" alt="image" src="https://github.com/user-attachments/assets/c892ee25-a551-4d8e-a511-51283173eb43" />
+
+
+
+
